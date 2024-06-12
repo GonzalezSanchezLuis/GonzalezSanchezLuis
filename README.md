@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/GonzalezSanchezLuis/GonzalezSanchezLuis/assets/56692766/c0ee39f4-5de4-451f-ab97-86aa023c5d27">
+<img src="https://github.com/GonzalezSanchezLuis/GonzalezSanchezLuis/assets/56692766/b259cb8a-590c-4f9e-acbe-e72ae9a3a50b">
+
 <h1>About me</h1>
 <ul>
   <li>👨‍💻 Backend developer</li>
