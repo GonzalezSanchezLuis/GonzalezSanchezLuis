@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 <ul>
   <li>👨‍💻 Backend developer</li>
   <li>📊 Java, Spring Boot, Mysql, Hibernate</li>
+   <li>🐳 Docker </li>
+   <li>👨‍💻 Html,  CSS, JS</li>
+   
+  
 </ul>
