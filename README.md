@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   <li>📊 Java, Spring Boot, Mysql, Hibernate</li>
    <li>🐳 Docker </li>
    <li>👨‍💻 Html,  CSS, JS</li>
-   
+    <li>👨‍💻 Html,  CSS, JS</li>
+     <li>👨‍💻 Swagger </li>
   
 </ul>
